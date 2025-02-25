@@ -1,6 +1,0 @@
-[submodule "gradle-test-01"]
-	path = gradle-test-01
-	url = https://github.com/jeevan553/gradle-test-01.git
-[submodule "mvn-test-01"]
-	path = mvn-test-01
-	url = https://github.com/jeevan553/mvn-test-01.git
